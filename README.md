@@ -1,5 +1,5 @@
-# dbmsProject
-dbms project (bus details management)
+# DBMS Project
+DBMS project (bus details management)
 
 ## ER Diagram
 1) ![screenshot](ER_Travel.png)
@@ -7,4 +7,4 @@ dbms project (bus details management)
 2) ![screenshot](ER_Travel2.png)
 
 ## ER Model
-![screenshot](ER-model.png)
+![screenshot](er-model.png)
