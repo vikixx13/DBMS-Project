@@ -7,4 +7,4 @@ DBMS project (bus details management)
 2) ![screenshot](ER_Travel2.png)
 
 ## ER Model
-![screenshot](er-model.png)
+![screenshot](er-model.jpg)
