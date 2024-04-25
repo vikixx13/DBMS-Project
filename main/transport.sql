@@ -3,7 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: May 01, 2023 at 05:15 PM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
