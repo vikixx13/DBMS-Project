@@ -2,9 +2,7 @@
 DBMS project (bus details management)
 
 ## ER Diagram
-1) ![screenshot](ER_Travel.png)
-
-2) ![screenshot](ER_Travel2.png)
+![screenshot](er-diagram.jpg)
 
 ## ER Model
 ![screenshot](er-model.jpg)
